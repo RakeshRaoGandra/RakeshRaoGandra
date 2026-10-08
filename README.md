@@ -65,12 +65,12 @@ Uncomment this block and fill it in once you're ready to show projects.
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.shion.dev/api?username=MaheshReddy-06&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-<img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=MaheshReddy-06&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
+<img height="180" src="https://github-readme-stats.shion.dev/api?username=RakeshRaoGandra&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+<img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=RakeshRaoGandra&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=MaheshReddy-06&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=RakeshRaoGandra&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
