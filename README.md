@@ -1,17 +1,19 @@
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=2000&color=0EA5E9&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Gandra+Rakesh+Rao;B.Tech+CSE+Student+%7C+SR+University;Software+Engineering+Student+%7C+Python+Developer" alt="Typing SVG" />
+  
 <br/>
-<img src="https://komarev.com/ghpvc/?username=GandraRakeshRao&label=Profile+Views&color=0ea5e9&style=flat-square" alt="Profile Views" />
+
+<img src="https://komarev.com/ghpvc/?username=RakeshRaoGandra&label=Profile+Views&color=0ea5e9&style=flat-square" alt="Profile Views" />
 &nbsp;
 <a href="https://github.com/RakeshRaoGandra?tab=followers">
-<img src="https://img.shields.io/github/followers/GandraRakeshRao?label=Followers&style=flat-square&color=0ea5e9" alt="Followers" />
+  <img src="https://img.shields.io/github/followers/RakeshRaoGandra?label=Followers&style=flat-square&color=0ea5e9" alt="Followers" />
 </a>
 &nbsp;
-<a href="#">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn" />
+<a href="https://www.linkedin.com/in/gandra-rakesh-rao/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn" />
 </a>
-</div>
 
+</div>
 ---
 
 ## 👨‍💻 About Me
