@@ -14,6 +14,7 @@
 </a>
 
 </div>
+
 ---
 
 ## 👨‍💻 About Me
@@ -88,9 +89,9 @@ Uncomment this block and fill it in once you're ready to show projects.
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gandra-rakesh-rao/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gandrarakeshrao123@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](#)
+
 
 </div>
 
