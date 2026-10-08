@@ -3,7 +3,7 @@
 <br/>
 <img src="https://komarev.com/ghpvc/?username=GandraRakeshRao&label=Profile+Views&color=0ea5e9&style=flat-square" alt="Profile Views" />
  
-<a href="#">
+<a href="https://github.com/RakeshRaoGandra?tab=followers">
 <img src="https://img.shields.io/github/followers/GandraRakeshRao?label=Followers&style=flat-square&color=0ea5e9" alt="Followers" />
 </a>
  
